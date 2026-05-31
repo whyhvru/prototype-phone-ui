@@ -29,4 +29,4 @@ Includes message sending, chat history, simulated incoming messages, custom keyb
 * C#
 * UGUI
 * Unity Input System
-* UniText
+* [UniText](https://github.com/LightSideKittens/UniText)
